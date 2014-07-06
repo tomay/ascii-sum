@@ -19,4 +19,4 @@ Run on the command line with:
 $ bash ascii-sum.sh
 ```
 
-The result will be called "out.tif"
+The result will be called "out.tif". For continuous species distribution models (produced by MaxEnt for example) this result can be considered an index of "habitat richness", with higher values representing a higher quantity of suitable habitat for the included set of species. For thresholded models, this script will produce a count of all species found in each location. 
